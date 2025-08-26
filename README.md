@@ -15,7 +15,7 @@ A custom implementation of the printf function in C, recreating the behavior of 
 
 ## 🎯 About
 
-ft_printf is the second major project in the 42 School curriculum after libft. The goal is to recode the printf function from the C standard library, handling various format specifiers and understanding variadic functions. This project deepens understanding of string manipulation, memory management, and formatted output.
+ft_printf is the second major project in the 1337 School curriculum after libft. The goal is to recode the printf function from the C standard library, handling various format specifiers and understanding variadic functions. This project deepens understanding of string manipulation, memory management, and formatted output.
 
 ## ⚙️ Format Specifiers
 
@@ -121,10 +121,7 @@ int main(void)
 ```
 
 ### Automated Testing
-Popular testing frameworks for ft_printf:
-- [printf-tester](https://github.com/Tripouille/printfTester)
-- [ft_printf_checker](https://github.com/cacharle/ft_printf_test)
-- [42TESTERS-PRINTF](https://github.com/Mazoise/42TESTERS-PRINTF)
+You can create your own tests or search for ft_printf testing frameworks that work with your implementation.
 
 ## 📁 Project Structure
 
@@ -152,7 +149,7 @@ printf_42/
 - **Modular Design**: Separate functions for each format specifier
 - **Helper Functions**: Utility functions for common operations like number conversion
 - **Error Handling**: Proper handling of edge cases and invalid inputs
-- **Norminette Compliance**: Code follows 42's coding standard
+- **Norminette Compliance**: Code follows 1337's coding standard
 
 ## 📊 Function Behavior
 
@@ -163,14 +160,14 @@ The function behaves identically to the standard printf for all implemented spec
 
 ## 🤝 Contributing
 
-This is my personal implementation of the ft_printf project at 42 School. While the code is available for reference and learning purposes, please remember to follow 42's academic integrity guidelines if you're a current student.
+This is my personal implementation of the ft_printf project at 1337 School. While the code is available for reference and learning purposes, please remember to follow 1337's academic integrity guidelines if you're a current student.
 
 ## 📄 License
 
-This project was developed by me as part of the 42 School curriculum. Feel free to explore and learn from the implementation!
+This project was developed by me as part of the 1337 School curriculum. Feel free to explore and learn from the implementation!
 
 ---
 
-**Note**: This is my personal implementation of ft_printf, created from scratch as part of the 42 School curriculum. The function mimics the behavior of the standard printf function for all mandatory format specifiers.
+**Note**: This is my personal implementation of ft_printf, created from scratch as part of the 1337 School curriculum. The function mimics the behavior of the standard printf function for all mandatory format specifiers.
 
-*Crafted with 💻 by abnemili at 42 School*
+*Crafted with 💻 by abnemili at 1337 School*
